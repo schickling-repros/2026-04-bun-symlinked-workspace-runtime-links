@@ -64,5 +64,4 @@ Verified locally on:
 
 Related issue:
 
-- `TBD`
-
+- [`oven-sh/bun#29598`](https://github.com/oven-sh/bun/issues/29598)
